@@ -6,7 +6,10 @@ function takeANumber(katzDeliLine, name) {
 }
 
 function takeANumberAlternate(katzDeliLine){
-  
+  //number tracked here
+  counter = 0;
+  counter++
+  katzDeliLine.push(counter)
 }
 
 
